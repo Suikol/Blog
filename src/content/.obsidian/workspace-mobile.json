@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/longcat-ai/index.md",
+                "file": "posts/zsh-config/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,8 +156,8 @@
   },
   "active": "39f3247fdc506420",
   "lastOpenFiles": [
-    "未命名.canvas",
     "posts/longcat-ai/index.md",
+    "未命名.canvas",
     "posts/longcat-ai/cover.png",
     "posts/longcat-ai/cover.jpg",
     "posts/astro-giscus/index.md",

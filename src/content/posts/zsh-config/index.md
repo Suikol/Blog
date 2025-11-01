@@ -14,12 +14,6 @@ draft: false
 sudo pacman -S zsh zsh-completions
 ```
 > zsh-completions是一个zsh的自动补全增强模块
-## 更改默认shell🔄
-在Arch下，新用户的默认shell是bash，需要手动切换为zsh
-```
-chsh
-```
-> 这里不能直接输入zsh要输入zsh二进制文件的绝对路径。如/bin/zsh
 ## 安装oh-my-zsh🛠
 > Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 > Oh My Zsh 是一个令人愉悦的、开源的、由社区驱动的框架，用于管理你的 Zsh 配置。它自带了成千上万个实用的函数、辅助工具、插件、主题，以及一些能让你忍不住惊呼的东西……
