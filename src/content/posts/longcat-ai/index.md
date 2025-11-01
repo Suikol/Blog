@@ -1,5 +1,5 @@
 ---
-title: Yet Another Free AI
+title: 来自美团的新玩具
 published: 2025-10-03
 description: 介绍一下来着美团的免费ai--longcat，并申请更高每日额度
 image: ./cover.png
