@@ -39,7 +39,13 @@ export const siteConfig: SiteConfig = {
 };
 
 export const navBarConfig: NavBarConfig = {
-	links: [LinkPreset.Home, LinkPreset.Archive, LinkPreset.About],
+	links: [LinkPreset.Home, LinkPreset.Archive, LinkPreset.About
+    {
+      name: '友情链接',
+      url: 'https://suikol.top/friends',     // Internal links should not include the base path, as it is automatically added
+      external: false,                               // Show an external link icon and will open in a new tab
+    },
+	],
 };
 
 export const profileConfig: ProfileConfig = {
