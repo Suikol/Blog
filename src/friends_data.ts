@@ -10,7 +10,7 @@ export interface Friend {
 export const friends: Friend[] = [
 	{
 		name: "Remik1r3n Blog",
-		url: "blog.remiki.ren",
+		url: "https://blog.remiki.ren",
 		avatar: "https://s2.loli.net/2025/09/19/dJtaOl2fVGKUb8n.jpg",
 		description: "Remi 的 Blog",
 	},
