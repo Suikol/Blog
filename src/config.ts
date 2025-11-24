@@ -44,7 +44,7 @@ links: [
     LinkPreset.Archive,
     LinkPreset.About,
     {                                                       name: '友情链接',
-      url: 'https://suikol.top/friends',
+      url: '/friends',
     },
 ],
 };
